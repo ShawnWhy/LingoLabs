@@ -22,6 +22,12 @@ Responsive websites
 E-commerce websites
 Corporate websites etc...
 
+![](giphylingolabs1.gif)
+
+![](giphylingolabs2.gif)
+
+
+
 For this project, I will have one or two of each web templates live, and I will have dummy templates that will not be available( once the user clicks on them, it will give an error SOLD OUT!)
 
 I will hard code HTML templates and make them live so that the user can browse and get a feeling of how the model looks.
